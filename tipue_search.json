@@ -7,10 +7,10 @@
             "loc": "https://stardustnoir.github.io/my-first-post.html"
         },
         {
-            "title": "About me", 
+            "title": "关于", 
             "text":"I&#39;m StardustNoir, a Python Web Developer.", 
             "tags": "pages", 
-            "loc": "https://stardustnoir.github.io/pages/about-me.html"
+            "loc": "https://stardustnoir.github.io/pages/guan-yu.html"
         }        
     ]
 }
