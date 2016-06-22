@@ -2,7 +2,7 @@
     "pages": [
         {
             "title": "Hello Blog", 
-            "text":"Hello World. 这是我的个人博客里的第一篇文章.", 
+            "text":"Hello World. 这是我的个人博客里的第一篇文章，使用Pelican静态博客生成，目前托管于Github Pages，以后会更新几篇技术文章。", 
             "tags": "Others", 
             "loc": "https://stardustnoir.github.io/my-first-post.html"
         },
