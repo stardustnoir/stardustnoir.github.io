@@ -4,13 +4,13 @@
             "title": "Hello Blog", 
             "text":"Hello World. 这是我的个人博客里的第一篇文章.", 
             "tags": "Others", 
-            "loc": "stardustnoir.github.io/my-first-post.html"
+            "loc": "https://stardustnoir.github.io/my-first-post.html"
         },
         {
             "title": "About me", 
             "text":"I&#39;m StardustNoir, a Python Web Developer.", 
             "tags": "pages", 
-            "loc": "stardustnoir.github.io/pages/about-me.html"
+            "loc": "https://stardustnoir.github.io/pages/about-me.html"
         }        
     ]
 }
