@@ -2,9 +2,9 @@
     "pages": [
         {
             "title": "《The TCP/IP Guide》章节笔记", 
-            "text":"", 
+            "text":"这是偶然网上搜出来的一本书，由于也正好想补习一下TCPIP网络协议的基础，发现这本书很适合我这种上课时没能好好听课的人，相比某些跟教科书差不多的关于网络基础的技术文章，借用原文以及书评的评价就是： Wordy but worthy, comprehensive but comprehensible. 我是直接从传输层协议一章开始看起，其实也是因为是英语原文，所以能让人更仔细审视到每一个细节，从而不至于像读教材那般枯燥。", 
             "tags": "计算机网络", 
-            "loc": "https://stardustnoir.github.io/the-tcpip-guide-note.html"
+            "loc": "https://stardustnoir.github.io/the-tcp-ip-guide-note.html"
         },
         {
             "title": "Hello Blog", 
@@ -17,6 +17,12 @@
             "text":"网名 StardustNoir； 我是 Web领域开发程序员，主后端，业余前端； Contact Github；", 
             "tags": "pages", 
             "loc": "https://stardustnoir.github.io/pages/about-me.html"
+        },
+        {
+            "title": "技能树", 
+            "text":"Web development Python Django JS", 
+            "tags": "pages", 
+            "loc": "https://stardustnoir.github.io/pages/skills-list.html"
         }        
     ]
 }
