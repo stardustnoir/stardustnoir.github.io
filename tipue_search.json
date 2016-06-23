@@ -14,9 +14,9 @@
         },
         {
             "title": "关于", 
-            "text":"I&#39;m StardustNoir, a Python Web Developer.", 
+            "text":"网名 StardustNoir； 我是 Web领域开发程序员，主后端，业余前端； Contact Github；", 
             "tags": "pages", 
-            "loc": "https://stardustnoir.github.io/pages/guan-yu.html"
+            "loc": "https://stardustnoir.github.io/pages/about-me.html"
         }        
     ]
 }
