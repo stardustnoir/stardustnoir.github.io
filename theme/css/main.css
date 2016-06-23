@@ -34,6 +34,12 @@ a {
 .uk-nav-side > li.uk-active > a {
   background: #28D1B2; }
 
+.uk-nav-side > li > a > span {
+  font-size: 70%;
+  color: #27927f;
+  position: relative;
+  bottom: 3px; }
+
 .uk-pagination > .uk-active > span {
   background: #28D1B2; }
 
@@ -70,8 +76,7 @@ a {
   background-color: #39B39D; }
 
 .mg-brand {
-  font-family: "Open Sans", sans-serif;
-  font-style: italic;
+  font-family: "Trebuchet MS", sans-serif;
   font-size: 2.5em;
   padding-left: 0;
   color: white;
